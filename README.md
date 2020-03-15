@@ -1,1 +1,3 @@
 # GIT-COURSE
+
+## Project Notes
